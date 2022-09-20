@@ -3,7 +3,7 @@
 <p>
   - 🔭 I’m currently seeking for an opportunity in a Front-end development area. <br>
   - 🌱 Meanwhile I will be learning React.<br>
-  - ❤️ I’m passionate about Front-end !!! Flex-box Grid etc. ❤️<br>
+  - ❤️ I’m passionate about Front-end !!! Flex-box, Grid, keyframes etc. ❤️<br>
   - 📫 How to reach me: bryan9438@gmail.com<br>
   - ⚡ Fun fact: I speak English, Mandarin, Cantonese, Korean (intermediate). Portuguese (elementary).<br>
 </p>
