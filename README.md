@@ -5,7 +5,7 @@
   - 🌱 Meanwhile I will be learning React.<br>
   - ❤️ I’m passionate about Front-end !!! Flex-box, Grid, keyframes etc. ❤️<br>
   - 📫 How to reach me: bryan9438@gmail.com<br>
-  - ⚡ Fun fact: I speak English, Mandarin, Cantonese, Korean (intermediate). Portuguese (elementary).<br>
+  - ⚡ Fun fact: I speak English, Mandarin, Cantonese, Korean (intermediate), Portuguese (elementary).<br>
 </p>
 
  <img src="https://www.icegif.com/wp-content/uploads/running-icegif-12.gif" width="250" height="250"/>
