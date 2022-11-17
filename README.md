@@ -64,4 +64,4 @@
   </a> 
 
 <h3>My Web Portfolio<h3/>
-<a href="https://bw-profile.herokuapp.com/" target="_blank" rel="noreferrer">  
+<a href="https://bw-profile.herokuapp.com/" target="_blank" rel="noreferrer"> </a> 
